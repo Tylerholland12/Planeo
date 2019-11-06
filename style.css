@@ -1,0 +1,26 @@
+.carousel1  {
+    padding-left:300px;
+    width:1000px;
+  
+  }
+  
+  .navbar-nav > li > a {padding-top:5px !important; padding-bottom:5px !important;}
+  .navbar {min-height:32px !important}
+  
+  .jumbotron {
+    background-image: url("https://www.photohdx.com/images/2016/02/tmb/blue-sky-clouds-panorama.jpg");
+    background-size: cover;
+  }
+  
+  .jumbotron h1 {
+    color: #FFFFFF
+  }
+  
+  .jumbotron p {
+    color: #FFFFFF
+  }
+  
+  .carousel-caption d-none d-md-block {
+    background-color: black;
+  
+  }
